@@ -1,0 +1,4 @@
+www/res/screen/ios/*
+.idea
+*.iml
+.DS_Store
